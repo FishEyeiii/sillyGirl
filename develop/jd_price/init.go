@@ -9,7 +9,7 @@ import (
 
 	"github.com/beego/beego/v2/adapter/httplib"
 	"github.com/buger/jsonparser"
-	"github.com/cdle/sillyGirl/core"
+	"github.com/FishEyeiii/sillyGirl/core"
 	"github.com/gin-gonic/gin"
 )
 
