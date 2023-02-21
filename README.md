@@ -1,5 +1,7 @@
 # 致谢
 作者：cdle  
+
+收集cdle大佬的插件
   
 [原链接](https://github.com/cdle/sillyGirl)
 ##### 傻妞机器人名
